@@ -21,6 +21,14 @@
 
 ## 📂 Proyectos
 
+### 🚚 Transportes Cano — Sitio Web Corporativo
+**Proyecto colaborativo | 2026**
+
+Participación en el desarrollo de una página web corporativa para una empresa de transportes, utilizando HTML, CSS y JavaScript.
+
+🌐 [Ver sitio web](https://transportescano.com.pe)
+
+---
 ### 🌐 Página Web DESI
 [Ver repositorio](https://github.com/jhevymcc/PaginaWebDESI)
 
